@@ -9,6 +9,9 @@ insert_final_newline = true
 trim_trailing_whitespace = true
 ij_visual_guides = 80, 120
 
+[*.json]
+insert_final_newline = false
+
 [*.{yml,yaml}]
 indent_size = 4
 

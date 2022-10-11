@@ -1,0 +1,14 @@
+{
+  "recipes": {
+    "jawira/case-converter-twig": [
+      "0.0"
+    ]
+  },
+  "branch": "main",
+  "is_contrib": true,
+  "_links": {
+    "repository": "github.com/your-github-account-name/your-recipes-repository",
+    "origin_template": "{package}:{version}@github.com/your-github-account-name/your-recipes-repository:master",
+    "recipe_template": "https://api.github.com/repos/your-github-account-name/your-recipes-repository/contents/{package_dotted}.{version}.json"
+  }
+}
